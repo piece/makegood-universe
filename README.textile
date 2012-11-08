@@ -1,0 +1,17 @@
+h1. MakeGood Universe - A continuous testing platform
+
+h2. Features
+
+h2. Installation
+
+h2. Support
+
+Visit our project page at http://piece-framework.com/projects/makegood-universe.
+
+h2. Copyright
+
+Copyright (c) 2012 KUBO Atsuhiro, All rights reserved.
+
+h2. License
+
+"GPLv3":http://www.gnu.org/licenses/gpl.html
